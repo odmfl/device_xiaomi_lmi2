@@ -7,9 +7,6 @@ persist.vendor.bt.a2dp.hal.implementation=true
 persist.camera.gyro.disable=0
 persist.vendor.camera.privapp.list=com.android.camera
 
-# Charger
-ro.charger.enable_suspend=1
-
 # CNE
 persist.vendor.cne.feature=1
 
