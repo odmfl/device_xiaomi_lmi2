@@ -101,6 +101,10 @@ ro.crypto.volume.filenames_mode=aes-256-cts
 # Dalvik dex2oat
 dalvik.vm.dex2oat64.enabled=true
 
+# Dexopt
+pm.dexopt.first-boot=quicken
+pm.dexopt.bg-dexopt=everything
+
 # Display
 ro.hwui.render_ahead=10
 ro.vendor.display.sensortype=2
