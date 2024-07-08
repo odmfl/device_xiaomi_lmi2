@@ -523,3 +523,8 @@ PRODUCT_PACKAGES += \
     p2p_supplicant_overlay.conf \
     WCNSS_qcom_cfg.ini \
     wpa_supplicant_overlay.conf
+
+# WiFi firmware symlinks
+PRODUCT_PACKAGES += \
+    firmware_WCNSS_qcom_cfg.ini_symlink \
+    firmware_wlan_mac.bin_symlink
